@@ -13,9 +13,11 @@ Get the input from the user using eval(input())
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
-### Step 5: 
+### Step 5:
+using concatenation operation
+display the entire rotated list 
 ### Step 6: 
+Stop the program
 ## Program:
 ```
 Developed by : Kathiresan K
